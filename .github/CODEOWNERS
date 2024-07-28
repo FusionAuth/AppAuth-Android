@@ -1,2 +1,2 @@
 # Lock down workflows.
-.github/ @fusionauth/owners
+.github/ @fusionauth/owners @fusionauth/platform
